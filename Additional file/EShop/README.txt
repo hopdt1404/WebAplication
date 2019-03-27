@@ -1,0 +1,1 @@
+git clone https://uet.ddns.net/UET/_git/EShop foo; mv foo/* foo/.git* .; rmdir foo
