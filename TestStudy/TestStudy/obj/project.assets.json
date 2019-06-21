@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Setup\\TempFile\\TestStudy\\TestStudy\\TestStudy.csproj",
+      "projectUniqueName": "D:\\Setup\\TempFile\\Web_CLB\\TestStudy\\TestStudy\\TestStudy.csproj",
       "projectName": "TestStudy",
-      "projectPath": "D:\\Setup\\TempFile\\TestStudy\\TestStudy\\TestStudy.csproj",
+      "projectPath": "D:\\Setup\\TempFile\\Web_CLB\\TestStudy\\TestStudy\\TestStudy.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Setup\\TempFile\\TestStudy\\TestStudy\\obj\\",
+      "outputPath": "D:\\Setup\\TempFile\\Web_CLB\\TestStudy\\TestStudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

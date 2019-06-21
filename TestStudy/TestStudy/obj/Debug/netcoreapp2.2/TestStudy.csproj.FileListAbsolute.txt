@@ -1,0 +1,11 @@
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\bin\Debug\netcoreapp2.2\TestStudy.deps.json
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\bin\Debug\netcoreapp2.2\TestStudy.runtimeconfig.json
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\bin\Debug\netcoreapp2.2\TestStudy.runtimeconfig.dev.json
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\bin\Debug\netcoreapp2.2\TestStudy.dll
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\bin\Debug\netcoreapp2.2\TestStudy.pdb
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.csprojAssemblyReference.cache
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.AssemblyInfo.cs
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.dll
+D:\Setup\TempFile\Web_CLB\TestStudy\TestStudy\obj\Debug\netcoreapp2.2\TestStudy.pdb
