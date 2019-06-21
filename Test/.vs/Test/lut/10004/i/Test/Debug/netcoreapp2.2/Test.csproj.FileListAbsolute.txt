@@ -1,0 +1,10 @@
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\Test\Debug\netcoreapp2.2\Test.deps.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\Test\Debug\netcoreapp2.2\Test.runtimeconfig.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\Test\Debug\netcoreapp2.2\Test.runtimeconfig.dev.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\Test\Debug\netcoreapp2.2\Test.dll
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.csprojAssemblyReference.cache
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.AssemblyInfo.cs
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.csproj.CopyComplete
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\Test\Debug\netcoreapp2.2\Test.dll

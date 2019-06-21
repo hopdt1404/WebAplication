@@ -1,0 +1,34 @@
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csprojAssemblyReference.cache
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfo.cs
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.deps.json
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.json
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.dev.json
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.pdb
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Test.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Test.pdb
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csproj.CopyComplete
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.dll
+C:\Users\japan sho\Desktop\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.pdb
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.deps.json
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.json
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.dev.json
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.dll
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\IntegrationTest.pdb
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Test.dll
+D:\Setup\TempFile\Test\IntegrationTest\bin\Debug\netcoreapp2.2\Test.pdb
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csprojAssemblyReference.cache
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfo.cs
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.csproj.CopyComplete
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.dll
+D:\Setup\TempFile\Test\IntegrationTest\obj\Debug\netcoreapp2.2\IntegrationTest.pdb

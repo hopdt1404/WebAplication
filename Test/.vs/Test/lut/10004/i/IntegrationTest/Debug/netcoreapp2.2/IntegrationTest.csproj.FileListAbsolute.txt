@@ -1,0 +1,12 @@
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.deps.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.runtimeconfig.dev.json
+D:\Setup\TempFile\Test\.vs\Test\lut\0\b\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.dll
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.AssemblyInfo.cs
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.csproj.CopyComplete
+D:\Setup\TempFile\Test\.vs\Test\lut\0\i\IntegrationTest\Debug\netcoreapp2.2\IntegrationTest.dll
