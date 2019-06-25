@@ -1,0 +1,17 @@
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.csprojAssemblyReference.cache
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.AssemblyInfo.cs
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\CalculatorTest.deps.json
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\CalculatorTest.runtimeconfig.json
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\CalculatorTest.runtimeconfig.dev.json
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\CalculatorTest.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\CalculatorTest.pdb
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\UnitTestCShape.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\bin\Debug\netcoreapp2.2\UnitTestCShape.pdb
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.csproj.CopyComplete
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.dll
+D:\Setup\TempFile\Web_CLB\UnitTestCShape\CalculatorTest\obj\Debug\netcoreapp2.2\CalculatorTest.pdb
