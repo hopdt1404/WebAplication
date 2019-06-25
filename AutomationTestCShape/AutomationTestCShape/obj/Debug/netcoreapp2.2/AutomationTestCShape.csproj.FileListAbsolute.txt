@@ -1,0 +1,8 @@
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\bin\Debug\netcoreapp2.2\AutomationTestCShape.deps.json
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\bin\Debug\netcoreapp2.2\AutomationTestCShape.runtimeconfig.json
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\bin\Debug\netcoreapp2.2\AutomationTestCShape.runtimeconfig.dev.json
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\bin\Debug\netcoreapp2.2\AutomationTestCShape.dll
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\obj\Debug\netcoreapp2.2\AutomationTestCShape.csprojAssemblyReference.cache
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\obj\Debug\netcoreapp2.2\AutomationTestCShape.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\obj\Debug\netcoreapp2.2\AutomationTestCShape.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Web_CLB\AutomationTestCShape\AutomationTestCShape\obj\Debug\netcoreapp2.2\AutomationTestCShape.AssemblyInfo.cs
