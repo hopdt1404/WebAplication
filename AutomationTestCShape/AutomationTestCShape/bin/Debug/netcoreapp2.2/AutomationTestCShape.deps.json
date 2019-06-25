@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "6faa9b358a549f736f15136b39ec264b6624f5f5"
+    "signature": "97113663127e8bacc9f4e72d5481e6b0beb1a1dc"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,7 @@
       "AutomationTestCShape/1.0.0": {
         "dependencies": {
           "NUnit": "3.12.0",
+          "NUnitTestAdapter.WithFramework": "2.0.0",
           "Selenium.Firefox.WebDriver": "0.24.0",
           "Selenium.InternetExplorer.WebDriver": "3.141.5",
           "Selenium.WebDriver": "3.141.0",
@@ -58,6 +59,26 @@
           "lib/netstandard2.0/nunit.framework.dll": {
             "assemblyVersion": "3.12.0.0",
             "fileVersion": "3.12.0.0"
+          }
+        }
+      },
+      "NUnitTestAdapter.WithFramework/2.0.0": {
+        "runtime": {
+          "lib/NUnit.VisualStudio.TestAdapter.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/nunit.core.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.core.interfaces.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.util.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
           }
         }
       },
@@ -424,6 +445,13 @@
       "sha512": "sha512-3oJTrcUcT9wmweBUwgUf0f1XIYy6RZq2ziV+RM95HMKAJGsHPN2i3MKK1dAPvDPMRLz799Llj4eyu/STB9Q7OA==",
       "path": "nunit/3.12.0",
       "hashPath": "nunit.3.12.0.nupkg.sha512"
+    },
+    "NUnitTestAdapter.WithFramework/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K4c5RuLsj6jybgVt9QV/sm3F0vBvLLMoxFK0dj1vhP3R4JhRE8OMkMBu6M8NAGkBwykZUCxvZIyZCsXRd3DVDg==",
+      "path": "nunittestadapter.withframework/2.0.0",
+      "hashPath": "nunittestadapter.withframework.2.0.0.nupkg.sha512"
     },
     "Selenium.Firefox.WebDriver/0.24.0": {
       "type": "package",

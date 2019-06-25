@@ -7,13 +7,14 @@ namespace AutomationTestCShape.Models
 {
     public class Blog
     {
-        private string _url = "http://blog.testproject.io/";
+        private string _url;
+        protected string ulrDefault = "http://blog.testproject.io/";
         private ChromeDriver _driver;
         public Blog()
         {
             _driver = new ChromeDriver();
         }
-        public Blog(string url)
+        public Blog(string url  = "http://blog.testproject.io/")
         {
             _url = url;
             _driver = new ChromeDriver();
