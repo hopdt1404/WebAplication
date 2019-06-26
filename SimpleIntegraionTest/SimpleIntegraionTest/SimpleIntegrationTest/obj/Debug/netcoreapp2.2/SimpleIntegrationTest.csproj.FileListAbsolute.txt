@@ -1,0 +1,17 @@
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\SimpleIntegrationTest.deps.json
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\SimpleIntegrationTest.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.csproj.CoreCompileInputs.cache
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.AssemblyInfoInputs.cache
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.AssemblyInfo.cs
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.csprojAssemblyReference.cache
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\SimpleIntegrationTest.runtimeconfig.json
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\SimpleIntegrationTest.runtimeconfig.dev.json
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\Base.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\SimpleIntegrationTest.pdb
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\bin\Debug\netcoreapp2.2\Base.pdb
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.csproj.CopyComplete
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.dll
+D:\Setup\TempFile\Web_CLB\SimpleIntegraionTest\SimpleIntegraionTest\SimpleIntegrationTest\obj\Debug\netcoreapp2.2\SimpleIntegrationTest.pdb
