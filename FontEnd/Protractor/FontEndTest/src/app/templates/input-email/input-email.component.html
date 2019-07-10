@@ -1,0 +1,9 @@
+<div class="form-group" [formGroup]="profile">
+    <label for="inputName">Email</label>
+    <input type="text" class="form-control " name="email" formControlName="email" placeholder="your email" required style="width: 50%">
+    <div class="mt-2" *ngIf="(email.invalid && (email.dirty || email.touched))">
+      <div class="alert alert-danger">
+        email is required.
+      </div>
+    </div>
+  </div>

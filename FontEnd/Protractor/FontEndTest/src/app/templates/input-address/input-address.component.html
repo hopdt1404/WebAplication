@@ -1,0 +1,10 @@
+<div class="form-group" [formGroup]="profile">
+    <label for="inputAddress">Address</label>
+    <input type="email" class="form-control " name = "address" formControlName="address" placeholder="your address" required style="width: 50%">
+    <div class="mt-2" *ngIf="(address.invalid && (address.dirty || address.touched))">
+      <div class="alert alert-danger">
+        address is required.
+      </div>
+    </div>
+  </div>
+  

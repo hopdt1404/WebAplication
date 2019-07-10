@@ -1,0 +1,35 @@
+<div class="container">
+    <form [formGroup]="employees" (ngSubmit)="onSubmit()">
+      
+      
+      
+  
+      <button type="submit" class="btn btn-primary mr-2">Sign in</button>
+    </form>
+  
+    <button class="btn btn-primary mt-3" (click)="addTel()">Add tel</button>
+  
+    <table class="table mt-5" *ngIf="showTable && listEmps.length > 0">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Email</th>
+          <th scope="col">Number phone</th>
+        </tr>
+      </thead>
+  
+      <!-- show imployee -->
+      <tbody>
+        <tr *ngFor="let emp of listEmps; index as i">
+          <td scope="row">{{i+1}}</td>
+          <td>{{ emp.name }}</td>
+          <td>{{ emp.email }}</td>
+          <td *ngFor=" let nb of emp.tel"> {{ nb }} </td>
+          <button class="btn btn-danger" (click)="removeEmp(i+1)">x</button>
+        </tr>
+      </tbody>
+    </table>
+  
+  
+  </div>

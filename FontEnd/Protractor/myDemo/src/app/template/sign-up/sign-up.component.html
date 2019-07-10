@@ -1,0 +1,73 @@
+<div class="alert alert-info" role="alert">
+        Sign Up
+      </div>
+<div class="col-md-12">
+  <div class="container">
+      
+      <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" id="loginForm">
+          <div class="form-group">
+              <label for="username">Username</label>
+              <input type="text" name="username" formControlName="username" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.username.errors }" />
+              
+              <div *ngIf="submitted && f.username.errors" class="invalid-feedback">
+                  <div *ngIf="f.username.errors.required">Username is existed</div>
+              </div>
+              <div *ngIf="name.invalid && (name.dirty || name.touched)"
+                    class="alert alert-danger">
+
+                <div *ngIf="name.errors.required">
+                    Name is required.
+                </div>
+                <div *ngIf="name.errors.minlength">
+                    Name must be at least 4 characters long.
+                </div>
+                <div *ngIf="name.errors.forbiddenName">
+                    Name cannot be Bob.
+                </div>
+                </div>
+
+</div>
+              
+              
+          </div>
+          <div class="form-group">
+                <label for="email">Email</label>
+                <input type="text" name="useremail" formControlName="useremail" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.useremail.errors }" />
+                <div *ngIf="submitted && f.useremail.errors" class="invalid-feedback">
+                    <div *ngIf="f.useremail.errors.required">UserEmail is existed</div>
+                </div>
+            </div>
+            <div class="form-group">
+                    <label for="address">Address</label>
+                    <input type="text" name="userAddress" formControlName="userAddress" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.userAddress.errors }" />
+                    <div *ngIf="submitted && f.useremail.errors" class="invalid-feedback">
+                        <div *ngIf="f.useremail.errors.required">UserEmail is existed</div>
+                    </div>
+                </div>
+        
+      
+
+          <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" name="password" formControlName="password" id ="passwordHelp" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.password.errors }" />
+              <small id="passwordHelp" class="form-text text-muted">
+                    Its length is at least 8.<br>
+                    It contains at least one digit.<br>
+                    It contains at least one lowercase English character.<br>
+                    It contains at least one uppercase English character.<br>
+                    It contains at least one special character. The special characters are: !@#$%^&*()-+
+              </small>
+              <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                  <div *ngIf="f.password.errors.required">Password is not security</div>
+              </div>
+          </div>
+
+          
+          <div class="form-group">
+              <button [disabled]="loading" class="btn btn-primary" id="btnSubmit">Submmit</button>
+              <img *ngIf="loading" class="pl-2" src="data:image/gif;base64,R0lGODlhEAAQAPIAAP///wAAAMLCwkJCQgAAAGJiYoKCgpKSkiH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAADMwi63P4wyklrE2MIOggZnAdOmGYJRbExwroUmcG2LmDEwnHQLVsYOd2mBzkYDAdKa+dIAAAh+QQJCgAAACwAAAAAEAAQAAADNAi63P5OjCEgG4QMu7DmikRxQlFUYDEZIGBMRVsaqHwctXXf7WEYB4Ag1xjihkMZsiUkKhIAIfkECQoAAAAsAAAAABAAEAAAAzYIujIjK8pByJDMlFYvBoVjHA70GU7xSUJhmKtwHPAKzLO9HMaoKwJZ7Rf8AYPDDzKpZBqfvwQAIfkECQoAAAAsAAAAABAAEAAAAzMIumIlK8oyhpHsnFZfhYumCYUhDAQxRIdhHBGqRoKw0R8DYlJd8z0fMDgsGo/IpHI5TAAAIfkECQoAAAAsAAAAABAAEAAAAzIIunInK0rnZBTwGPNMgQwmdsNgXGJUlIWEuR5oWUIpz8pAEAMe6TwfwyYsGo/IpFKSAAAh+QQJCgAAACwAAAAAEAAQAAADMwi6IMKQORfjdOe82p4wGccc4CEuQradylesojEMBgsUc2G7sDX3lQGBMLAJibufbSlKAAAh+QQJCgAAACwAAAAAEAAQAAADMgi63P7wCRHZnFVdmgHu2nFwlWCI3WGc3TSWhUFGxTAUkGCbtgENBMJAEJsxgMLWzpEAACH5BAkKAAAALAAAAAAQABAAAAMyCLrc/jDKSatlQtScKdceCAjDII7HcQ4EMTCpyrCuUBjCYRgHVtqlAiB1YhiCnlsRkAAAOwAAAAAAAAAAAA==" />
+          </div>
+          <div *ngIf="error" class="alert alert-danger">{{error}}</div>
+      </form>
+  </div>
+</div>

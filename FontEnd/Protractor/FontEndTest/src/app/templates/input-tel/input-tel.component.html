@@ -1,0 +1,10 @@
+<div class="form-group" [formGroup]="profile">
+    <label for="inputTel">tel</label>
+    <input type="email" class="form-control " name="tel" formControlName="tel" placeholder="your tel" required style="width: 50%">
+    <div class="mt-2" *ngIf="(tel.invalid && (tel.dirty || tel.touched))">
+      <div class="alert alert-danger">
+        tel is required.
+      </div>
+    </div>
+  </div>
+  

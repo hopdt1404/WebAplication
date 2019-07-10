@@ -1,0 +1,12 @@
+<div class="container">
+    <h3 class="alert alert-primary mt-2" style="text-align: center" >CREATE ACCOUNT</h3>
+    <form [formGroup]="profile" (ngSubmit)="onSubmit()" id="formSignUp">
+      <app-input-name [name]="name" [profile]="profile"></app-input-name>
+      <app-input-email [email] = "email" [profile]="profile" ></app-input-email>
+      <app-input-password [password]="password" [profile]="profile" ></app-input-password>
+      <app-input-address [address]="address" [profile] = "profile" ></app-input-address>
+      <app-input-tel [tel] = "tel" [profile] = "profile" ></app-input-tel>
+      
+      <button type="submit" class="btn btn-primary mr-2" id="btnSubmit">Sign in</button>
+    </form>
+</div>
