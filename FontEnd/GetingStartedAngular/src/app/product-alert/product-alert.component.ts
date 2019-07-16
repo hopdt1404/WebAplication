@@ -9,6 +9,7 @@ import { Input } from '@angular/core';
 })
 export class ProductAlertComponent implements OnInit {
 
+  @Input() product;
   constructor() { }
 
   ngOnInit() {
