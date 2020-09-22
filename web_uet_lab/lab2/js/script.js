@@ -150,24 +150,22 @@ document.addEventListener('submit', (e) => {
 		});
 		}
 	}
-	console.log(name);
-	console.log(dateOfBirth);
-	console.log(email);
-	console.log(username);
-	console.log(password);
-	console.log(messagesError);
 	
+	if (messagesError.length > 0) {
+		e.preventDefault();
+		var i;
+		var resultErrors = '';
+		for(i in messagesError) {
+			resultErrors += messagesError[i]['messageError'] + '\n';
+		}
+		error.value = resultErrors;
+	} else {
+		alert("Form thông tin hợp lệ");	
+	}
 	
-
-	e.preventDefault();
 })
 
 
 function invalidRequireInput (string) {
 	return (string === '' || string === null || typeof string === undefined);
 }
-/*
-value maxdate is today 
-var maxDate
-
-*/;
