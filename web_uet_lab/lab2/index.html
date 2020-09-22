@@ -7,112 +7,116 @@
 	<script type="text/javascript" src="js/script.js"></script>
 </head>
 <body>
+	<h1>Đăng ký khóa học</h1>
 	<div id="error">
 	</div>
 	<form id="form" action="" method="get">
-		<div class="form-group">
-			<div class="row">
-				<label for="name" class="col-sm-2 col-form-label temp">Họ và tên</label>
-			    <div class="col-sm-6">
-			      <input type="text" class="form-control form-custome background-input-color" name="name" id="name" placeholder="" autofocus style="text-transform: capitalize;" required>
-			    </div>	
+		<div  class="form">
+			<div class="form-group">
+				<div class="row">
+					<label for="name" class="title-input">Họ và tên</label>
+				    <div class="input-margin">
+				      <input type="text" class="form-control form-custome background-input-color input-size" name="name" id="name" placeholder="Họ và tên" autofocus style="text-transform: capitalize;" required>
+				    </div>	
+				</div>
 			</div>
-		</div>
 
-		<div class="form-group">
-			<div class="row">
-				<label for="address" class="col-sm-2 col-form-label">Địa chỉ</label>
-			    <div class="col-sm-6">
-			      <input type="text" class="form-control" id="address" placeholder="" min="1900-01-01" max="">
+			<div class="form-group">
+				<div class="row">
+					<label for="address" class="title-input">Địa chỉ</label>
+				    <div class="input-margin">
+				      <input type="text" class="form-control input-size" id="address" placeholder="Địa chỉ" min="1900-01-01" max="">
+				    </div>
 			    </div>
-		    <div class="row">
-		</div>
-		<div class="form-group">
-			<label for="address" class="col-sm-2 col-form-label">Giới tính</label>
-			<div class="col-sm-2 select-box" id="gender">
-		      	<div class="form-check">
-				  <input class="form-check-input" type="radio" name="man" id="man" value="man">
-				  <label class="form-check-label" for="man">
-				    Nam
-				  </label>
-				</div>
-				<div class="form-check">
-				  <input class="form-check-input" type="radio" name="woman" id="woman" value="woman">
-				  <label class="form-check-label" for="woman">
-				    Nữ
-				  </label>
-			  	</div>
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="date-of-birth" class="col-sm-2 col-form-label">Ngày sinh</label>
-		    <div class="col-sm-6">
-		      <input type="date" class="form-control background-input-color" name="date-of-birth" id="date-of-birth" placeholder="" required>
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="email" class="col-sm-2 col-form-label">Email</label>
-		    <div class="col-sm-6">
-		      <input type="email" class="form-control background-input-color" id="email" 	placeholder="Email" name="email"
-				 pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="phone" class="col-sm-2 col-form-label">Điện thoại</label>
-		    <div class="col-sm-6">
-		      <input type="tel" class="form-control" id="phone" placeholder="" name="phone">
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="courses" class="col-sm-2 col-form-label">Khóa học đăng ký</label>
-			<div class="col-sm-2" id="courses" name="courses">
-				<div class="form-check">
-				  <input class="form-check-input" type="checkbox" name="english-course" id="english-course" value="option1">
-				  <label class="form-check-label" for="english-course">
-				    Tiếng anh
-				  </label>
-				</div>
-				<div class="form-check">
-				  <input class="form-check-input" type="checkbox" name="manage-course" id="manage-course" value="option1">
-				  <label class="form-check-label" for="manage-course">
-				    Quản trị
-				  </label>
-				</div>
-				<div class="form-check">
-				  <input class="form-check-input" type="checkbox" name="it-course" id="it-course" value="option1">
-				  <label class="form-check-label" for="it-course">
-				    CNTT
-				  </label>
+			</div>
+			<div class="form-group">
+				<label for="address" class="title-input">Giới tính</label>
+				<div class="input-margin select-box" id="gender">
+			      	<div class="">
+					  <input class="form-check-input" type="radio" name="gender" id="man" value="man">
+					  <label class="form-check-label" for="man">
+					    Nam
+					  </label>
+					</div>
+					<div class="">
+					  <input class="form-check-input" type="radio" name="gender" id="woman" value="woman">
+					  <label class="form-check-label" for="woman">
+					    Nữ
+					  </label>
+				  	</div>
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="date-of-birth" class="title-input">Ngày sinh</label>
+			    <div class="input-margin">
+			      <input type="date" class="form-control background-input-color  input-size" name="date-of-birth" id="date-of-birth" placeholder="" required>
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="email" class="title-input">Email</label>
+			    <div class="input-margin">
+			      <input type="email" class="form-control background-input-color input-size" id="email" 	placeholder="Email" name="email"
+					 pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="phone" class="title-input">Điện thoại</label>
+			    <div class="input-margin">
+			      <input type="tel" class="form-control input-size" id="phone" placeholder="Số điện thoại" name="phone">
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="courses" class="title-input">Khóa học đăng ký</label>
+				<div class="input-margin" id="courses" name="courses">
+					<div class="">
+					  <input class="form-check-input" type="checkbox" name="english-course" id="english-course" value="option1">
+					  <label class="form-check-label" for="english-course">
+					    Tiếng anh
+					  </label>
+					</div>
+					<div class="">
+					  <input class="form-check-input" type="checkbox" name="manage-course" id="manage-course" value="option1">
+					  <label class="form-check-label" for="manage-course">
+					    Quản trị
+					  </label>
+					</div>
+					<div class="">
+					  <input class="form-check-input" type="checkbox" name="it-course" id="it-course" value="option1">
+					  <label class="form-check-label" for="it-course">
+					    CNTT
+					  </label>
+					</div>
 				</div>
 			</div>
-		</div>
-		<div class="form-group">
-			<label for="username" class="col-sm-2 col-form-label">Tên sử dụng</label>
-		    <div class="col-sm-6">
-		      <input type="text" class="form-control background-input-color" id="username" placeholder="" name="username" required>
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="password" class="col-sm-2 col-form-label">Mật khẩu</label>
-		    <div class="col-sm-6">
-		      <input type="password" class="form-control background-input-color" id="password" placeholder="" name="password" required>
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="confirm-pwd" class="col-sm-2 col-form-label">Nhập lại mật khẩu</label>
-		    <div class="col-sm-6">
-		      <input type="password" class="form-control background-input-color" id="confirm-pwd" name="confirm-pwd" placeholder="">
-		    </div>
-		</div>
-		<div class="form-group">
-			<label for="note" class="col-sm-2 col-form-label">Ghi chú</label>
-			<div class="col-sm-6">
-				<textarea id="note" name="note"></textarea>	
+			<div class="form-group">
+				<label for="username" class="title-input">Tên sử dụng</label>
+			    <div class="input-margin">
+			      <input type="text" class="form-control background-input-color  input-size" id="username" placeholder="Tên sử dụng" name="username" required>
+			    </div>
 			</div>
-		</div>
-		<div class="form-group">
-			<button type="submit" class="btn btn-primary">Chấp nhận</button>
-			<button type="button" class="btn btn-secondary">Bỏ qua</button>
+			<div class="form-group">
+				<label for="password" class="title-input">Mật khẩu</label>
+			    <div class="">
+			      <input type="password" class="form-control background-input-color  input-size" id="password" placeholder="Mật khẩu" name="password" required>
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="confirm-pwd" class="title-input">Nhập lại mật khẩu</label>
+			    <div class="input-margin">
+			      <input type="password" class="form-control background-input-color  input-size" id="confirm-pwd" name="confirm-pwd" placeholder="Nhập lại mật khẩu">
+			    </div>
+			</div>
+			<div class="form-group">
+				<label for="note" class="title-input">Ghi chú</label>
+				<div class="input-margin">
+					<textarea id="note" name="note" placeholder="Điền ghi chú" 
+					style="width: 300px; height: 50px;"></textarea>	
+				</div>
+			</div>
+			<div class="form-group">
+				<button type="submit" class="btn btn-primary">Chấp nhận</button>
+				<button type="button" class="btn btn-secondary">Bỏ qua</button>
+			</div>
 		</div>
 	</form>
 

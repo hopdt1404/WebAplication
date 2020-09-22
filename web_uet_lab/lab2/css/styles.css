@@ -1,15 +1,47 @@
-.form-group {
-	display: block;
+body {
+	background-color: #ffd9b3;
 }
 
-.row {
-	display: inline-block;
+h1 {
+	text-align: center;
 }
 
 .background-input-color {
 	background-color: #33ffff;
 
 }
+.form {
+	margin: 20px auto;
+	width: 300px;
 
-.form-custome {
 }
+
+.title-input {
+	font-size: 30px;
+}
+
+.form-check-label {
+	font-size: 20px;
+}
+
+.input-size {
+	height: 25px;
+	width: 300px;
+}
+
+.form-group {
+	display: block;
+	margin: 10px 0 10px 0;
+}
+
+.input-margin {
+	margin-top: 10px;
+}
+
+
+.row {
+	display: inline-block;
+}
+
+
+
