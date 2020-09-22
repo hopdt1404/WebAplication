@@ -1,1 +1,0 @@
-Làm sao để có thể có Data trong Db của Employee
